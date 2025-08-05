@@ -8,30 +8,24 @@ A Streamlit-based machine learning web application built by **Tushar Chaudhary**
 
 👉 **App Link**: [Click here to open](https://loaneligibilityprediction-bh9h9h8nb3bvawhdxovezq.streamlit.app/)
 
-> _Replace with your actual Streamlit Cloud app URL_
 
----
 
-## 🔁 Step 1: Clone the Repository
-
-```bash
-git clone https://github.com/TusharChaudhary/Loan_Eligibility_Prediction.git
-cd Loan_Eligibility_Prediction
-📦 Step 2: Install Dependencies
+## 🔁 Step 1: Install Dependencies
 It is recommended to use a virtual environment.
 
 bash
 Copy
 Edit
 pip install -r requirements.txt
-▶️ Step 3: Run the App
+
+## 🔁 Step 2: Run the App
 bash
 Copy
 Edit
 streamlit run app.py
 The app will launch in your default browser on http://localhost:8501
 
-🧠 Model Info
+##  Model info
 Algorithm: Logistic Regression
 
 Scaler: StandardScaler
