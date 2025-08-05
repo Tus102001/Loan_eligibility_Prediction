@@ -90,6 +90,6 @@ Loan_Eligibility_Prediction/
 
 ## 🔁 Author
 Tushar Chaudhary
-📧 Email: tushar@example.com
+📧 Email: tushar102001@gmail.com
 🔗 GitHub: github.com/TusharChaudhary
 
