@@ -6,7 +6,7 @@ Welcome to the Loan Eligibility Prediction App — a Streamlit-powered web appli
 
 ## 🚀 Demo
 
-👉 **Live App:** [Click here to open](https://share.streamlit.io/your-app-url)
+👉 **Live App:** [Click here to open]([https://share.streamlit.io/your-app-url](https://loaneligibilityprediction-bh9h9h8nb3bvawhdxovezq.streamlit.app/))
 
 ---
 
