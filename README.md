@@ -32,9 +32,13 @@ Welcome to the Loan Eligibility Prediction App — a Streamlit-powered web appli
 ---
 
 ## 📁 Project Structure
-With a fenced code block using triple backticks like this:
-
-<pre> ```bash Loan_Eligibility_App/ ├── app.py # Streamlit app ├── model.pkl # Trained ML model (e.g., Logistic Regression) ├── scaler.pkl # Fitted scaler (e.g., StandardScaler or MinMaxScaler) ├── loan_app.log # Log file for predictions and errors ├── requirements.txt # Python dependencies └── README.md # This documentation ``` </pre>
+Loan_Eligibility_App/
+├── app.py # Streamlit app
+├── model.pkl # Trained ML model (e.g., Logistic Regression)
+├── scaler.pkl # Fitted scaler (e.g., StandardScaler or MinMaxScaler)
+├── loan_app.log # Log file for predictions and errors
+├── requirements.txt # Python dependencies
+└── README.md # This documentation>
 
 yaml
 Copy
@@ -53,7 +57,7 @@ To run the app locally:
 git clone https://github.com/TusharChaudhary/Loan_Eligibility_App.git
 cd Loan_Eligibility_App
 
-Install the required libraries
+2. **Install the required libraries**
 
 bash
 Copy
