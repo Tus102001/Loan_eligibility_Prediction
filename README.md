@@ -56,13 +56,14 @@ Property Area
 
 Output: Eligible (1) or Not Eligible (0)
 
-📊 Dataset
+
+## 🔁 Dataset
 credit.csv: contains anonymized applicant data used for training
 
 Source: UCI Machine Learning Repository
 or any other dataset used in model creation.
 
-📁 Project Structure
+## 🔁 Project Structure
 bash
 Copy
 Edit
@@ -86,7 +87,8 @@ Loan_Eligibility_Prediction/
 
 📥 Add CSV upload feature for batch predictions
 
-🙋‍♂️ Author
+
+## 🔁 Author
 Tushar Chaudhary
 📧 Email: tushar@example.com
 🔗 GitHub: github.com/TusharChaudhary
